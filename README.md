@@ -18,3 +18,4 @@ A simple Python-based calculator that performs addition, subtraction, multiplica
 - Python
 - VS Code
 - Git & GitHub
+
